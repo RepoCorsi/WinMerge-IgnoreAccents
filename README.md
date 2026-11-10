@@ -92,4 +92,7 @@ Stable version: **1.0**.
 
 ## Repository contents
 
-Source files, build instructions, and downloadable binaries will be added after the release package has been checked against the tested version.
+- `Source/` — C++ source files, Visual Studio project, IDL, resource files, and module definition file.
+- `Bin/` — prebuilt `IgnoreAccents.dll`.
+
+The source project and binary are included in this repository. The binary is provided as a convenience; users who prefer may rebuild it from `Source/` with Visual Studio and the required C++/ATL toolchain.
