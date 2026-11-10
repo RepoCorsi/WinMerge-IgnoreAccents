@@ -45,6 +45,10 @@ Nei test effettuati, la versione ottimizzata è risultata circa **2,7× più vel
 
 Versione stabile: **1.0**.
 
+### Licenza
+
+Il progetto è rilasciato nel pubblico dominio secondo **The Unlicense**. Chiunque può utilizzare, copiare, modificare e distribuire il software, anche per scopi commerciali. Consulta il file [`LICENSE`](LICENSE) per il testo completo.
+
 ---
 
 ## English
@@ -87,6 +91,10 @@ In the tests performed, the optimized version was approximately **2.7× faster**
 ### Status
 
 Stable version: **1.0**.
+
+### License
+
+This project is released into the public domain under **The Unlicense**. Anyone may use, copy, modify, and distribute the software, including for commercial purposes. See [`LICENSE`](LICENSE) for the full text.
 
 ---
 
